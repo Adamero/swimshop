@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">swimshop</string>
+    <string name="Brand">Brand</string>
+    <string name="Country">Country</string>
+    <string name="save_producer">save producer</string>
+</resources>
